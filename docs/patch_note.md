@@ -13,3 +13,4 @@
 ## 📌 **Prochaines Étapes**
 - [ ] Créer un exécutable **Linux** pour une compatibilité multiplateforme.
 - [ ] Créer le site web
+- [ ] Ajouer le fichier d'instructions

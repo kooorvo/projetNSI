@@ -2,7 +2,7 @@
 Notre site est désormais rendu public à l'adresse suivante : https://netcalc-ip.netlify.app/
 
 ## Téléchargement
-Rendez-vous dans l'onglet release et téléchargez l'exécutable [NetCalc.exe] (https://github.com/kooorvo/projetNSI/releases)
+Rendez-vous dans l'onglet release et téléchargez l'exécutable [NetCalc.exe] (https://github.com/kooorvo/NetCalc-IP/releases)
 
 ### Instructions
 1. Téléchargez le fichier `.exe`.
@@ -11,7 +11,7 @@ Rendez-vous dans l'onglet release et téléchargez l'exécutable [NetCalc.exe] (
 
 
 ---
-patch note : https://github.com/kooorvo/projetNSI/blob/main/patch-note.md
+patch note : https://github.com/kooorvo/NetCalc-IP/blob/main/patch-note.md
 <br>
 <br>
 <br>

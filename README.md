@@ -1,6 +1,3 @@
-## ProjetNSI
-Calculateur d'adresses IP pour la NSI
-
 ## Voir le site web
 Notre site est désormais rendu public à l'adresse suivante : https://netcalc-ip.netlify.app/
 
@@ -15,3 +12,8 @@ Rendez-vous dans l'onglet release et téléchargez l'exécutable [NetCalc.exe] (
 
 ---
 patch note : https://github.com/kooorvo/projetNSI/blob/main/patch-note.md
+
+
+
+
+Made by Melk0r_666 & Koorvo

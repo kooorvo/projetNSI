@@ -1,4 +1,4 @@
-# 📜 **Historique du Projet : NetCalc**
+# 📜 **Historique du Projet**
 
 ---
 ## 📅 **Journal de Développement**
@@ -12,3 +12,4 @@
 
 ## 📌 **Prochaines Étapes**
 - [ ] Créer un exécutable **Linux** pour une compatibilité multiplateforme.
+- [ ] Créer le site web

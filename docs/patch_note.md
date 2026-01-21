@@ -15,3 +15,7 @@
 - [ ] Créer un exécutable **Linux** pour une compatibilité multiplateforme.
 - [ ] Améliorer le site web
 - [ ] Ajouer le fichier d'instructions
+- [ ] Ajouter le thème sombre
+- [ ] Amélioration de l'interface utilisateur et simplifier l'utilisation de l'application
+- [ ] Ajout de l'istorique des calculs
+- [ ] Ajout du multi-langue
